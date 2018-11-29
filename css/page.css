@@ -1,0 +1,300 @@
+/*管理手册*/
+.center{width: 100%;}
+.content{width: 68.6%;margin: 0 auto}
+.glscbt{margin: 59px auto;text-align: center}
+.glscbt p{font-size: 35px;color: #1B6FA8;font-family: SourceHanSansCN-Medium;}
+.glscwzk{margin: 25px 55px 60px 55px;}
+.glscwzk p:first-child{font-family: SourceHanSansCN-Medium;font-size: 25px;color: #1b6fa8;}
+.glscwzk p:first-child img{margin-right: 20px;}
+.glscwzk span{font-family: SourceHanSansCN-Medium;font-size: 18px;line-height: 27px;color: #666;margin-left: 34px;font-weight: normal;
+    font-stretch: normal;letter-spacing: 0px;display: block;}
+
+/*公司简介*/
+.jianjiebanner{margin-bottom: 70px}
+#jjbody{width: 73.5%;margin:0 auto}
+.jjhq{float: left;margin-bottom: 90px;}
+.jjwq{width: 55.2%;float: left}
+.jjwq p,.jjww p{font-family: SourceHanSansCN-Normal;font-size: 21px;font-weight: normal;font-stretch: normal;letter-spacing: 0px;color: #333333;margin-bottom: 38px;text-indent: 2em;}
+.jjwq p:last-child,.jjww p:last-child{margin-bottom: 0}
+.jjww p:first-child{margin-top: 41px;}
+.jjtp1{float: right}
+/*.jjtp1,.jjtp2{width: 38.07%;}*/
+.gscl{display: flex;justify-content: center}
+.jjww{width: 55.2%;float: right}
+.jjtp2{float: left}
+.jjtp3,.jjtp3 img{width: 100%;}
+.jjtp3{margin-bottom: 100px;}
+.jjwq{margin-right: 38px;}
+.jjtp2{margin-right: 57px}
+
+/*公司历史*/
+.lishibanner{margin-bottom: 50px;}
+.lsbody{width: 66.74%;margin: 0 auto;overflow: hidden;}
+.lswq{width: 100%;margin-bottom: 50px;}
+.lswq p{font-family: SourceHanSansCN-Normal;font-size: 16px;font-weight: normal;font-stretch: normal;line-height: 24px;letter-spacing: 0px;color: #333333;text-indent: 2em;}
+.lslb{width: 100%;    float: left;}
+/*.lslb div:nth-child(3n+1){margin-left: 0;padding-left: 0;}*/
+/*.lslb div:nth-child(3n){margin-right: 0;padding-right: 0;}*/
+.lslb p{text-align: center;margin: 20px 0 16px 0;font-family: SourceHanSansCN-Normal;font-size: 16px;font-weight: normal;font-stretch: normal;line-height: 24px;letter-spacing: 0px;color: #333333;}
+.disblck{display: none}
+/*公司历史底部轮播*/
+.aboutUs-text03{width: 100%;height: 826px;overflow: hidden;margin: 0}
+.aboutUs-text03>h1{color: #fff;font-size: 32px;padding:0;margin: 29px 0 20px 0;text-align: center;font-family: SourceHanSansCN-Medium;}
+.timelong{width: 740px;height: 100%;position: relative;margin: 35px auto;}
+.longline{width: 26px;height: 100%;position: relative;}
+.longline>h1{width: 26px;height: 26px;position: relative;top: -15px;}
+.longline>h1>span {display: block;position: absolute;width: 15px;height: 15px;background: #ddcba3;top: 0;bottom: 0;left: 0;right: 0;margin: auto;border-radius: 50%;z-index: 2;}
+.longline>p {width: 2px;height: 100%;position: absolute;top: 26px;left: 11.5px;background: #e8bc5a;}
+.longtext {width: 100%;height: 300px;position: absolute;z-index: 2;top: 60px;}
+#longtext{width: 100%;height: 640px;overflow-y: hidden;}
+.longtext-con{width: 100%;float: left;}
+.longtext-con>p{color: #fff;font-size: 14px;line-height: 24px;height: 65px;vertical-align: text-top;}
+.longtext-con>p>span{display: block;float: left;color: #fff;font-size: 18px;font-family: SourceHanSansCN-Light;}
+.longtext-con>p>span:nth-child(1){display: block;width: 15px;height: 2px;background: #e8bc5a;margin-right: 16px;position: relative;top: 10px;margin-left: 13px;}
+.longtext-con>p>span:nth-child(2){color: #cf9635;margin-right: 21px;}
+.longtext-con>p>span:nth-child(3){white-space: normal;width: 410px;float: left;}
+#con2{width:100%;float:left;}
+
+/*合作品牌*/
+#hzpp{margin-bottom: 125px;}
+.pinpaibanner{margin-bottom: 57px;}
+.ppbody{width: 100%;overflow: hidden;}
+.ppbod{width: 67.1%;margin: 0 auto;}
+.ppbt{width: 100%;text-align: center;margin: 29px 0 63px 0;}
+.ppbt p{font-family: SourceHanSansCN-Medium;font-size: 33px;font-weight: normal;font-stretch: normal;letter-spacing: 0px;color: #2272aa;}
+/*.pptph ul li{width: 20%;float: left;text-align: center}*/
+.pptph div p{font-family: SourceHanSansCN-Normal;font-size: 20px;font-weight: normal;font-stretch: normal;line-height: 24px;letter-spacing: 0px;color: #1b6fa8;margin: 21px 0 20px 0;}
+
+/*联系我们*/
+.lxwmbody{background: url(../img/lxwmbj.png)no-repeat ;margin:60px 0 80px 0;width: 100%;overflow: hidden;background-size: 100% 100%}
+.lxbod{width: 70%;background: url("../img/联系我们bj (1).png") 100%;margin:70px auto;overflow: hidden;}
+.lxwz{float: left;margin-left: 33px;}
+.lxwz p{font-family: SourceHanSansCN-Medium;font-size: 17.5px;margin-bottom: 19px;color: #1b6fa8;}
+.lxwz p:first-child{margin: 29px 0 55px 0;;font-size: 33px;}
+/*地图定位*/
+#dituContent{height:210px;width:443px;margin: 80px 91px 43px 0;border:#ccc solid 1px;;float: right;}
+.iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+.iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}
+
+/*企业文化*/
+.qyq{width: 100%;background: url(../img/qywh1.png) no-repeat;overflow: hidden;background-size: 100% 100%}
+.whq{width: 70%;margin: 0 auto;overflow: hidden;}
+.whnh{margin: 167px 0 137px 0;overflow: hidden;}
+.whw{width: 100%;float: left}
+.whw p{font-family: SourceHanSansCN-Normal;font-size: 30px;color: #fff}
+.whw font{font-family: SourceHanSansCN-Light;font-size: 18px;color: #fff}
+.last_whw{margin-top: 89px;}
+.qyw{background: url("../img/qywh2.png");width: 100%}
+.qyw .whnh{margin: 0;}
+.qyw .whw{margin-top: 133px;margin-bottom: 127px;}
+.qye{background: url("../img/qywh3.png");width: 100%}
+.qye .whw div.col-sm-8 p,.qye .whw div.col-sm-8 font{margin-left: 100px;float: left;width: 78%;}
+
+/*严谨加盟*/
+.strict_joining{width: 100%;background: url("../img/严谨加盟.png")no-repeat;background-size: 100% 100%;overflow: hidden;}
+.joinin{width: 67%;margin: 0 auto;}
+.joining_fuhe{width: 100%;margin-top: 62px;background-color: rgba(255, 255, 255, 0.4);border-radius: 33px;overflow: hidden;}
+.joining_fuhe p{font-family: SourceHanSansCN-Regular;font-size: 35px;color: #333;text-align: center;margin: 39px 0 38px 0;}
+.joining_fuhe p span{color: #1b6fa8;}
+.joining{width: 92.3%;margin: 0 auto}
+.joining_fuhe font{font-family: SourceHanSansCN-Regular;font-size: 18px;color: #333;}
+.joinin_center{margin-top: 41px;overflow: hidden}
+.joinin_center i{float: left}
+.joinin_center font{font-size: 16px;}
+.joinin_center div.col-sm-6:first-child font{font-size: 16px;display: block;margin-left: 23px;margin-right: 36px;}
+.joinin_center div.col-sm-6:last-child font{margin-left: 63px;display: block;}
+.joinin_center div.col-sm-6:last-child i{margin-left: 40px;}
+.joinin_center div{margin: 0;padding: 0;}
+.joinin_last{margin: 62px 0 59px 0;}
+.vs{margin: 58px 0 38px 0;font-family: SourceHanSansCN-Regular;font-size: 35px;color: #333;text-align: center;}
+.vs span{color: #1b6fa8;}
+.rigorous_loose{width: 692px;margin: 0 auto;}
+.rigorous{width: 44.3%;overflow:hidden;float: left;}
+.loose{width: 44.2%;overflow:hidden;float: right;margin-top: 40px;}
+.rigorous .rigorous_center{background:url("../img/严谨加盟-1.png");overflow: hidden;text-align: center;margin-bottom: 79px;height: 220px;}
+.rigorous .rigorous_center p{font-family: SourceHanSansCN-Medium;font-size: 25px;color: #333;margin: 17px 0 0 0;}
+.rigorous .rigorous_center a{font-family: SourceHanSansCN-Medium;font-size: 10px;color: #333;-webkit-transform: scale(0.83);margin: 7px 0 0 0;display: block;}
+.rigorous .rigorous_center font{display: block;font-family: SourceHanSansCN-Regular;font-size: 18px;color: #333;width: 258px;;margin: 27px 0 37px 20px;}
+.loose .rigorous_center{background:url("../img/严谨加盟-2.png");overflow: hidden;text-align: center;margin-bottom: 79px;height: 220px;}
+.loose .rigorous_center p{font-family: SourceHanSansCN-Medium;font-size: 25px;color: #333;margin: 17px 0 0 0;}
+.loose .rigorous_center a{font-family: SourceHanSansCN-Medium;font-size: 10px;color: #333;-webkit-transform: scale(0.83);margin: 7px 0 0 0;display: block;}
+.loose .rigorous_center font{display: block;font-family: SourceHanSansCN-Regular;font-size: 18px;color: #333;width: 258px;;margin: 27px 0 37px 20px;}
+.cnt{width: 292px;}
+.rigorous .dsn{display: none;}
+
+/*加盟条件*/
+.jmtjbody{background: url(../img/加盟合作--加盟条件22.png);background-size: 100% 100%;overflow: hidden}
+.jmtjbod{width: 752px;margin:0 auto;}
+.jmtjcenter{margin-top: 61px;margin-bottom: 103px;overflow: hidden;}
+.jmtq {width: 531px;height: 131px;float: left;background: url(../img/jma.png);background-size: 100% 100%;margin-bottom: 41px;}
+.jmtq p {float: left;padding-left: 115px;padding-top: 76px;}
+.jmtw {width: 531px;height: 131px;float: right;background: url(../img/jms.png);background-size: 100% 100%;margin-bottom: 41px;}
+.jmtw p {float: left;padding-left: 95px;padding-top: 76px;}
+.jmte {width: 531px;height: 131px;float: left;background: url(../img/jmd.png);background-size: 100% 100%;margin-bottom: 41px;}
+.jmte p {float: left;padding-left: 115px;padding-top: 76px;}
+.jmtr {width: 531px;height: 131px;float: right;background: url(../img/jmf.png);background-size: 100% 100%;}
+.jmtr p{float: left;padding-left: 95px;padding-top: 76px;}
+.jmtjbod p {font-family: SourceHanSansCN-Medium;font-size: 25px;color: rgb(255, 255, 255);display: block;}
+
+/*购物便利*/
+.blbody{width: 100%;}
+.blbod{width: 66.9%;margin: 0 auto;overflow: hidden;}
+.blhq{margin-top: 59px;text-align: center;}
+.bla{margin-bottom: 20px;text-align: center}
+.bls{margin-bottom: 65px;}
+.bld{display: flex;justify-content: center;}
+.bld i img,blhw i p{line-height: 45px;margin-top: 7px;}
+.bld p,blhw p{margin-left: 19px;font-family: SourceHanSansCN-Medium;font-size: 25px;color: #1b6fa8;}
+.blbod p{margin-bottom: 0;}
+.blhw{margin-bottom: 100px;}
+.blhw .bla {margin-top: 59px;margin-bottom: 40px;}
+.blhw .bls{margin-bottom: 40px;}
+.blhw .bld{margin-bottom: 40px;}
+.blhw .blds{margin-top: 39px;margin-bottom: 42px;}
+
+/*行业领军*/
+.hylj_center{width: 66.9%;margin: 0 auto;}
+.hyljhq{width: 100%;text-align: center;overflow: hidden;margin-top: 59px;}
+.hyljhqq,.hyljhqw{margin-bottom: 30px;}
+.hyljhqe p{font-family: SourceHanSansCN-Regular;font-size: 18px;color: #333;text-align: initial;margin: 0;}
+.hyljhww{width: 100%;margin-top: 38px;}
+.hyljhww dl dd p{font-family: SourceHanSansCN-Medium;font-size: 30px;color: #1b6fa8;margin: 32px 0 32px 0;}
+.hyljhww dl{margin-bottom: 0;}
+.hyljhww dl dd span{font-family: SourceHanSansCN-Medium;font-size: 18px;color: #333;margin: 0 15.3%;display: block;text-align: initial;}
+.hyljhwyw{margin-top: 43px;margin-bottom: 107px;}
+
+
+
+
+@media (max-width: 993px){
+    /*公司简介*/
+    #jjbody {width: 80%;}
+    .jjwq,.jjtp2{margin-right: 20px;}
+    .jjwq p,.jjww p{margin-bottom: 20px;font-size: 20px;}
+    .jjwq p:last-child, .jjww p:last-child {margin-bottom: 0;}
+    .lsbody{width: 94.6%}
+    .lslb p{font-size: 14px;}
+    .disn{display: none;}
+    .disblck{display: block}
+    /*合作品牌*/
+    .ppbod{width: 80%;}
+    .pptph p{font-size: 18px;}
+    .ppbt p{font-size: 28px}
+    /*联系我们-地图定位*/
+    .lxbod{margin: 24px auto;}
+    /*企业文化*/
+    .whq{width: 80%;}
+    .qyq .whw div.col-sm-4{width: 33.333%;float: left}
+    .qye .whw div:first-child p,.qye .whw div:first-child font{margin-left: 0px;width: 100%;}
+    /*严谨加盟*/
+    .joining_fuhe{width: 80%;margin: 62px auto;}
+    .joinin {width: 100%;}
+    .loose {width: 44%;}
+    .joinin_center div.col-sm-6 {width:50%;    float: left; }
+    /*加盟条件*/
+    .jmtjbod{width: 482px;}
+    .jmtjcenter div{width: 342px;height: 85px}
+    .jmtjbod p {font-size: 16px;padding-top: 50px;}
+    .jmtq p, .jmte p{padding-left: 73px;}
+    .jmtw p,.jmtr p{padding-left: 61px;}
+    /*购物便利*/
+    .bld p,blhw p{font-size: 21px;}
+    .bld i img,blhw i img{margin-top: 4px;}
+
+    .hyljhww dl dd p{font-size: 25px}
+    .hyljhww dl dd span{font-size: 16px;}
+    .hyljhqe p {font-size: 16px}
+    .hyljhww .col-sm-4{width: 33.333%;float: left}
+}
+
+
+@media (max-width: 750px){
+    .disn{display: none}
+    /*公司简介*/
+    #jjbody {width: 94.6%;}
+    .jjwq p:last-child{width: 226%;}
+    .jjww p:first-child{margin-top: 0px;}
+    .gscl{margin-top: 21px;}
+    .jjwq p,.jjww p{font-size: 19px;}
+    .jjtp2 img{height: 400px;}
+    /*公司历史*/
+    .milestone{width: 100%;}
+    .milestone{display: none;}
+    /*合作品牌*/
+    .ppbod{width: 88%;}
+    .ppbt p{font-size: 23px}
+    /*联系我们-地图定位*/
+    .lxbod {width: 96%;}
+    /*企业文化*/
+    .qyq .whnh,.last_whw{margin-top: 0;margin-bottom: 47px;}
+    .qyq .whw div.col-sm-4{width: 100%;margin-top: 40px;margin-left: 21px;}
+    .qyw .whw div.col-sm-4{float: right;text-align: right;width: 100%;}
+    .whw div.col-sm-4 p,.whw div.col-sm-8 p{font-size: 20px;}
+    .whw div.col-sm-4 font,.whw div.col-sm-8 font{font-size: 10px;}
+    .whq{width: 100%;}
+    .qye .whw div:first-child p,.qye .whw div:first-child font{float: none;}
+    .qye .whw div.col-xs-6{width: 100%;margin-top: 40px;margin-left: 21px;}
+    .qye .whw div.col-xs-6 div{width: 35%;float: right;text-align: left;margin-right: 21px;}
+    /*严谨加盟*/
+    .joinin_center div.col-sm-6 {width:100%; float: left; }
+    .joinin_center div.col-sm-6:last-child{float: left}
+    .joinin_center div.col-sm-6:last-child font{margin-left: 23px;display: block}
+    .joinin_center div.col-sm-6:last-child i{margin-left: 0;}
+    .joining_fuhe p {font-size: 25px;margin: 29px 0 29px 0;}
+    .joinin_center font {font-size: 12px;}
+    .joinin_center div.col-sm-6:first-child font  {font-size: 12px;}
+    .joinin_top font{font-size: 14px;}
+    .joining_fuhe {width: 50.7%;}
+    .joinin_center {margin-top: 22px;}
+    .joinin_last {margin: 0 0 19px 0;}
+    .vs{font-size: 25px;margin: 40px 0 29px 0;}
+    .joining_fuhe{margin-bottom: 0;}
+    .rigorous .rigorous_center{width: 210px;background-size: 100% 100%;margin-bottom: 20px;}
+    .rigorous .rigorous_center p {font-size: 18px;}
+    .rigorous .rigorous_center a{font-size: 8px;-webkit-transform: scale(0.56);margin-top: 16px;}
+    .rigorous .rigorous_center font{font-size: 14px;width: 154px;margin-left: 24px;}
+    .cnt{width: 200px;}
+    .rigorous .dsn{display: block;float: right;}
+    .loose{display: none}
+    .rigorous {width: 43%;float: none;margin: 0 auto;}
+    /*加盟条件*/
+    .jmtjbod{width: 342px;}
+    /*购物便利*/
+    .bld p,blhw p{font-size: 18px;}
+    .bld i img,blhw i img{margin-top: 0px;}
+
+    .hyljhww dl dd p{font-size: 20px;margin: 20px 0 28px 0;}
+    .hyljhww dl dd span{font-size: 14px;}
+    .hyljhqe p {font-size: 14px}
+    .hyljhww .col-sm-4{width: 100%;margin-bottom: 28px;}
+    .hyljhww .col-sm-4:last-child{margin-bottom: 0;}
+    .hyljhq{margin-top: 39px;}
+    .hyljhww{margin-top: 28px;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 750px){
+    .glscwzk{margin: 25px 0 60px 0}
+}

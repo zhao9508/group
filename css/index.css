@@ -1,0 +1,102 @@
+/*1200px以上*/
+/*@media (min-width: 1200px){*/
+    /*.nav {*/
+        /*width: 878px*/
+    /*}*/
+
+/*}*/
+/*内容区*/
+.content{width: 100%;margin: auto;position: relative;overflow: hidden;}
+
+.big_imgs{width: 100%;z-index: 1}
+
+.big_imgs img{width: 100%;}
+
+.diagram{width: 66.8%;margin:0px auto;z-index: 10;overflow: hidden;}
+
+.design{width: 74.4%;height: 388px}
+
+.design img{float: left}
+
+.design img:nth-child(1){width: 550px;height: 194px;}
+
+.design img:nth-child(2){width: 275px;height: 194px;}
+
+.design img:nth-child(3){width: 275px;height: 194px;}
+
+.design img:nth-child(4){width: 275px;height: 194px;}
+
+.design img:nth-child(5){width: 275px;height: 194px;}
+
+.designs{width: 25.6%;}
+
+.designs img{width: 284px;height: 388px;}
+
+.information{width: 100%;background: url("../img/未标题-5.png")}
+
+.information a{color: #fff;font-size: 14px;text-decoration: none}
+
+.information_left{text-align: center}
+
+.dynamic{background: url("../img/未标题-11.png") 100%;width: 100%;z-index: 1;margin: 280px 0 auto}
+
+.big_dynamic{display: flex;justify-content: center;margin-top: 51px;color: #fff;width: 68%;margin: 0 auto;}
+
+.group_dynamics{width: 513px;margin-right: 30px;}
+
+.group_dynamics p,.group_dynamics a{color: #fff;text-decoration: none}
+
+.mt_51 a{font-size: 32px;text-decoration: none}
+
+.group_dynamics p span{font-size: 20px;}
+
+.group_dynamics p.gd{font-size: 14px;color: #44A9F5;float: right;margin: 29px 0 18px 0;}
+
+.matter{margin: 40px 14px 0 0;border-bottom: 1px solid #44A9F5;overflow: hidden;}
+
+.same{width: 80%;}
+
+.map{margin-bottom: 61px;}
+
+.video_mp4{width: 439px;height: 349px;}
+
+.Cooperation{width: 100%;background: url("../img/tea安藤樱.png");}
+
+.join{margin: 0 auto; width: 100%; position: relative;}
+
+/*.join_img{width: 100%;}*/
+.join_img{    width: 100%;
+    position: relative;
+    top: 82px;}
+
+.mt25 i{width: 9px;height: 9px;background: #44A9F5;display: block;border-radius: 50%;margin:  4px 6px 0 0}
+
+/*.mt25 ul{width: 100%;}*/
+
+.mt25 ul li{margin-bottom: 18px;width: 100%;}
+
+.f13 li{display: flex;}
+
+/*.f13 li a{display: block;}*/
+
+.dynamics_imgs{margin-top: 53px;position: relative}
+
+.example{position: absolute;top: 311px;width: 100%;background: rgba(255,255,255,0.3);line-height: 41px}
+
+.example a{ color: #fff;margin: 13px 0 13px 31px;font-size: 18px;text-decoration: none}
+
+.layout{margin:0 auto;width: 68%;}
+
+/*.dist{margin: 49px 0 33px 10px;}*/
+.dist{    position: relative;
+    top: 49px;
+    right: 33px;}
+
+.dist a,.dist span{color: #0068B7;text-decoration: none}
+
+.win{position: absolute;top: 318px;left: 764px;width: 289px;text-align: center}
+
+.win p{font-size: 26px;color: #fff;margin-bottom: 31px;}
+
+
+
